@@ -8,3 +8,8 @@
 # 功能預覽
 ![Image](https://github.com/user-attachments/assets/e5950ef3-99ef-4576-b6d7-8af422fcb3e9)
 ![Image](https://github.com/user-attachments/assets/6cde102e-8a4b-436b-9556-bab790486baf)
+
+---
+# 設定
+
+只需要在```.env```裡面輸入Discord bot token即可使用。
